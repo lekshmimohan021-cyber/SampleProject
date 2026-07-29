@@ -12,4 +12,5 @@ display1();
 const add=(a,b)=>{        //arrow functions
      return a+b;
 }
-add(20,40);
+console.log(add(20,40));
+
